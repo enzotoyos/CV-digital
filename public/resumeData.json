@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Enzo Toyos",
+    "occupation": "Avignon",
+    "description": "Acutellement en Master développement logiciel, mobile et IOT et en alternance Chez Orano(Areva)",
+    "image": "profilepic.jpg",
+    "bio": "Jeune étudiant avec une grande envie d'en apprendre davantage sur le développement. Actuellement en Master 1 développement logiciel, mobile et IOT, je me passionne depuis plus de 5 ans à concevoir des programmes, interfaces graphiques, et Back-End que ce soit pour mobile, web, serveur Linux ou encore Cloud, un niveau avancé ou expert dans un domaine aussi vaste étant complexe à acquérir en 5 ans m'encourage à développer mes compétences dans un milieu professionnel",
+    "contactmessage": "N'hésitez pas à me contactez pour plus d'informations",
+    "email": "enzo.toyos@gmail.com",
+    "phone": "+33 64 19 23 01 5",
+    "address": {
+      "street": "4 traverse du montagné",
+      "city": "Les angles",
+      "state": "France",
+      "zip": "30133"
+    },
+    "website": "http://www.github.com/enzotoyos",
+    "resumedownload": "../../CV_toyos_enzo.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/enzotoyos",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/enzotoyos2",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/enzo-toyos-05535a1ba/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/enzo.toyos",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/enzotoyos",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Jeune étudiant avec une grande envie d'en apprendre davantage sur le développement. Actuellement en Master 1 développement logiciel, mobile et IOT, je me passionne depuis plus de 5 ans à concevoir des programmes, interfaces graphiques, et Back-End que ce soit pour mobile, web, serveur linux ou encore cloud, un niveau avancé ou expert dans un domaine aussi vaste étant complexe à acquérir en 5 ans m'encourage à développer mes compétences dans un milieu professionnel",
+    "education": [
+      {
+        "school": "Ynov Aix-en-Provence ",
+        "degree": "Master DLMIOT",
+        "graduated": "2021 - 2023",
+        "description": "Etudiant en Master développement logiciel, mobile et IOT"
+      },
+      {
+        "school": "ST Jean Baptiste de la Salle",
+        "degree": "Licence Professionnelle",
+        "graduated": "2020 - 2021",
+        "description": "Etudiant en Licence Professionnelle développement d'objets connectés"
+      },
+      {
+        "school": "ST Jean Baptiste de la Salle",
+        "degree": "BTS Systèmes numériques",
+        "graduated": "2018 - 2020",
+        "description": "Etudiant en BTS système numérique et développement d'objets connectés"
+      }
+    ],
+    "work": [
+      {
+        "company": "Orano (ex Areva)",
+        "title": "Co-chef de projet",
+        "years": "2021 - 2022",
+        "description": "Co-chef de projet pour un déploiement d'objets connectés sur une centrale nucléaire"
+      },
+      {
+        "company": "Brad Technology",
+        "title": "Alternant recherche et développement",
+        "years": "2020 - 2021",
+        "description": "Création d'une balise radio connecté longue portée couplée à un application mobile permettant une aide à la décision en temps réel pour les agriculteurs "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "React / React-Native",
+        "level": "55%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "56%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Gestion de projet",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-Coffee mobile",
+        "category": "Pilotage d'une machine à café avec une application mobile",
+        "image": "e-coffee.jpg",
+        "url": "https://github.com/enzotoyos/E-Coffee_IOS"
+      },
+      {
+        "title": "Best-Movie",
+        "category": "Application mobile permettant la création d'une collection personnalisé de film à visionner",
+        "image": "best-movie.jpg",
+        "url": "https://github.com/enzotoyos/best-movie"
+      },
+      {
+        "title": "CRM API",
+        "category": "Création d'une API avec nodeJS et Typescript pour un CRM (Customer Relationship Management)",
+        "image": "crm_nodejs.jpg",
+        "url": "https://github.com/enzotoyos/api-crm-ws"
+      },
+      {
+        "title": "Wireless Assist",
+        "category": "Création d'une application Mobile permettant la prise de RDV et le suivi de patients",
+        "image": "wireless.jpg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
